@@ -1,7 +1,7 @@
 {
-  "name": "sevendays-digital/twill-redirects",
+  "name": "webwhales/twill-redirects",
   "description": "A twill package",
-  "homepage": "https://github.com/sevendays-digital/twill-redirects",
+  "homepage": "https://github.com/WebWhales/Twill-Redirects",
   "license": "MIT",
   "require": {
     "php": ">=8",
